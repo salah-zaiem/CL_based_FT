@@ -3,7 +3,7 @@ This repository presents the code for the experiments in the paper called: Less 
 For every presented a script is present, to run an experiment you need to run the script with the according param file, for instance:
 
 ```
-python replay.py hparams/auto\_replay.yaml
+python replay.py hparams/auto_replay.yaml
 ```
 
 
